@@ -1,0 +1,11 @@
+{
+	"name": "SantaClaus Weightlifter",
+	"short_name": "SantaClaus Weightlifter",
+	"description": "SantaClaus Weightlifter !",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
